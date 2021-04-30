@@ -1,0 +1,39 @@
+[
+    {
+      "artistName": "Chiief Diin, Mallis and Quan",
+      "songIMG": "https://res.cloudinary.com/deswq0aff/image/upload/v1619399690/Focus_RS_Insta_szstk5.png",
+      "songName": "Anything",
+      "songURL": "https://firebasestorage.googleapis.com/v0/b/musicplayer-bcf13.appspot.com/o/anything.mp3?alt=media&token=9cda1f53-b6a1-4591-8e0f-f29f6a39ddc4"
+    },
+    {
+      "artistName": "LRG",
+      "songIMG": "https://res.cloudinary.com/deswq0aff/image/upload/v1619399811/RX-7-blue_zmfobe.png",
+      "songName": "Chargie",
+      "songURL": "https://firebasestorage.googleapis.com/v0/b/musicplayer-bcf13.appspot.com/o/chargie.mp3?alt=media&token=66c7eaa1-37d2-4547-bed7-9b4c3c98f927"
+    },
+    {
+      "artist": "Chronixx",
+      "SongIMG": "https://res.cloudinary.com/deswq0aff/image/upload/v1619399798/mclaren-insta_ehgk26.png",
+      "songName": "Dela Move",
+      "songURL": "https://firebasestorage.googleapis.com/v0/b/musicplayer-bcf13.appspot.com/o/dela_move.mp3?alt=media&token=107f9b82-455a-475d-a762-b37c40b08d12"
+    },
+    {
+      "songName": "Private Zess",
+      "artistName": "K Lion ft LRG",
+      "songIMG": "https://res.cloudinary.com/deswq0aff/image/upload/v1619399690/Focus_RS_Insta_szstk5.png",
+      "songURL": "https://firebasestorage.googleapis.com/v0/b/musicplayer-bcf13.appspot.com/o/private_zess.mp3?alt=media&token=2b4d4e58-e6d9-4c88-aef7-744610fcc496"
+    },
+    {
+      "title": "Tek Away Myself",
+      "artistName": "Chiief Diin",
+      "songIMG": "https://res.cloudinary.com/deswq0aff/image/upload/v1619399504/sample.jpg",
+      "songURL": "https://firebasestorage.googleapis.com/v0/b/musicplayer-bcf13.appspot.com/o/tek_away.mp3?alt=media&token=5294c21b-6624-4149-970a-b44132a1ed32"
+    },
+    {
+      "title": "Seaside Development",
+      "artistName": "Nathan, Khareen, Samuel and Zachary",
+      "songIMG": "https://res.cloudinary.com/deswq0aff/image/upload/v1619399504/sample.jpg",
+      "songURL": "https://firebasestorage.googleapis.com/v0/b/musicplayer-bcf13.appspot.com/o/the_box.mp3?alt=media&token=c3d01a89-33d8-41fe-9c61-ce79f15bd85a"
+    }
+]
+
